@@ -1,0 +1,54 @@
+{
+	"auth": {
+		"forgot_password": "Did you forget your password?",
+		"password": "Password",
+		"login": "Log in",
+		"create_account": "Create account",
+		"or": "or",
+		"fullname": "Full name",
+		"phone": "Phone",
+		"enter_email": "Enter your email. We will send you a link to change your password.",
+		"recover_password": "Recover password",
+		"email": "Email",
+		"email_sent": "We have sent you an email to recover your password.",
+		"send_email": "Send email",
+		"next": "Next"
+	},
+	"errors": {
+		"required": "This field is required",
+		"mail_not_valid": "The email is not valid",
+		"min_characters": "this field must have at least {{num}} characters",
+		"wrong_credentials": "Wrong credentials",
+		"login_failed": "Login failed. Try again later",
+		"server_failed": "The server could not be accessed. Try again later.",
+		"cannot_create": "Could not create account. Please try again later.",
+		"email_already_registered": "The email is already registered",
+		"obsolete_version": "Obsolete version",
+		"obsolete_text": "Please update the app to the latest version.",
+		"update": "Update",
+		"without_conexion": "Withot conexion",
+		"without_conexion_text": "We use your internet connection so that the app can work.",
+		"try_again": "Try again"
+	},
+	"onboarding": {
+		"skip": "Skip",
+		"continue": "Continue"
+	},
+	"home": {
+		"welcome": "Welcome to Bodegón Puerto de la Cruz",
+		"where": "You can find us here",
+		"events": "Events",
+		"see_all": "See all",
+		"news": "News",
+		"network": "Network",
+		"see_network": "See Network",
+		"science": "Science",
+		"news_no_available": "There is no news available"
+	},
+	"navbar": {
+		"cards": "My cards",
+		"cardholder": "Cardholder",
+		"scan": "Scan",
+		"settings": "Settings"
+	}
+}

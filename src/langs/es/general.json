@@ -1,0 +1,54 @@
+{
+	"auth": {
+		"forgot_password": "¿Olvidaste tu contraseña?",
+		"password": "Contraseña",
+		"login": "Iniciar sesion",
+		"create_account": "Crear cuenta",
+		"or": "o",
+		"fullname": "Nombre completo",
+		"phone": "Telefono",
+		"enter_email": "Ingresa tu correo electronico. Te enviaremos un enlace para cambiar tu contraseña.",
+		"recover_password": "Recuperar contraseña",
+		"email": "Correo electronico",
+		"email_sent": "Te hemos enviado un email para recuperar tu contraseña",
+		"send_email": "Enviar email",
+		"next": "Siguiente"
+	},
+	"errors": {
+		"required": "Este campo es obligatorio",
+		"mail_not_valid": "El email no es valido",
+		"min_characters": "Este campo debe tener al menos {{num}} caracteres",
+		"wrong_credentials": "Credenciales incorrectas",
+		"login_failed": "No se ha podido iniciar la sesion. Intentalo mas tarde.",
+		"server_failed": "No se ha podido acceder al servidor. Inténtalo mas tarde.",
+		"cannot_create": "No se ha podido crear la cuenta. Intentalo mas tarde.",
+		"email_already_registered": "El correo ya esta registrado",
+		"obsolete_version": "Version obsoleta",
+		"obsolete_text": "Por favor, actualiza la app a la ultima version.",
+		"update": "Actualizar",
+		"without_conexion": "Sin conexion",
+		"without_conexion_text": "Utilizamos tu conexión con internet para que el app pueda funcionar.",
+		"try_again": "Volver a intentarlo"
+	},
+	"onboarding": {
+		"skip": "Saltar",
+		"continue": "Continuar"
+	},
+	"home": {
+		"welcome": "Bienvenido al Bodegón Puerto de la Cruz",
+		"where": "Nos puedes encontrar aquí",
+		"events": "Eventos",
+		"see_all": "Ver todo",
+		"news": "Noticias",
+		"network": "Red",
+		"see_network": "Ver Red",
+		"science": "Ciencia",
+		"news_no_available": "No hay Noticias disponibles"
+	},
+	"navbar": {
+		"cards": "Mis tarjetas",
+		"cardholder": "Tarjetero",
+		"scan": "Escanear",
+		"settings": "Ajustes"
+	}
+}
