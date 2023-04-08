@@ -45,6 +45,11 @@
 		"science": "Science",
 		"news_no_available": "There is no news available"
 	},
+	"banner": {
+		"review": "+400 positive Bewertungen",
+		"cheap": "Immer günstige Preise",
+		"canary": "Typisch kanarisches essen"
+	},
 	"navbar": {
 		"cards": "My cards",
 		"cardholder": "Cardholder",
